@@ -12,7 +12,8 @@ A simple HTML5 custom video player with interactive subtitles.
 
 ## Getting started
 
-1. Set up HTML markup  ```
+#### Set up HTML markup  
+```
 <div class="player" id="p_container">
     <div class="player__ui" id="p_ui">
         <div class="player__subtitles" id="p_subtitles"></div>
@@ -48,16 +49,16 @@ A simple HTML5 custom video player with interactive subtitles.
     <video class="player__video" src="video.m4v" poster="poster.jpg" preload="metadata" id="p_video"></video>
 </div>
 ```
-2. Move the /waka-waka-player folder into your project
-3. Add waka-waka-player.min.css in your <head>
+#### Move the /waka-waka-player folder into your project
+#### Add waka-waka-player.min.css in your <head>
 ```
 <link rel="stylesheet" type="text/css" href="waka-waka-player/waka-waka-player.min.css"/>
 ```
-4. Add waka-waka-player.min.js before your closing <body> tag
+#### Add waka-waka-player.min.js before your closing <body> tag
 ```
 <script type="text/javascript" src="waka-waka-player/waka-waka-player.min.js"></script>
 ```
-5. Initialize your player in your script or an inline script tag
+#### Initialize your player in your script or an inline script tag
 ```javascript
 wwp({
 	video: document.getElementById('p_video'),
