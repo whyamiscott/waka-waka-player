@@ -50,6 +50,7 @@ Set up HTML markup
 </div>
 ```
 Move the /waka-waka-player folder into your project
+
 Add waka-waka-player.min.css in your <head>
 ```
 <link rel="stylesheet" type="text/css" href="waka-waka-player/waka-waka-player.min.css"/>
