@@ -49,6 +49,7 @@ A simple HTML5 custom video player with interactive subtitles.
     <video class="player__video" src="video.m4v" poster="poster.jpg" preload="metadata" id="p_video"></video>
 </div>
 ```
+### Don't forget to change src attribute for VIDEO tag
 #### Move the /waka-waka-player folder into your project
 #### Add waka-waka-player.min.css in your HEAD tag
 ```
