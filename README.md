@@ -12,8 +12,7 @@ A simple HTML5 custom video player with interactive subtitles.
 
 ## Getting started
 
-1. Set up HTML markup
-```
+1. Set up HTML markup  ```
 <div class="player" id="p_container">
     <div class="player__ui" id="p_ui">
         <div class="player__subtitles" id="p_subtitles"></div>
