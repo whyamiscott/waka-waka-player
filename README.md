@@ -93,7 +93,7 @@ Subtitles is an array of objects that contains properties: start, end and text.
 ```
 
 ## How I use this player
-I use Waka Waka Player to watch tv shows in english. In wordFunction() I call the Yandex.Translate API and translate words that I don't know. In this way I skill up my english.
+I use Waka Waka Player to watch tv shows in english. In wordFunction() I call the [Yandex.Translate API](https://tech.yandex.ru/translate/) and translate words that I don't know. In this way I skill up my english.
 
 ## License and copyright
 
