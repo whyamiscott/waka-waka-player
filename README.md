@@ -50,11 +50,11 @@ A simple HTML5 custom video player with interactive subtitles.
 </div>
 ```
 #### Move the /waka-waka-player folder into your project
-#### Add waka-waka-player.min.css in your <head>
+#### Add waka-waka-player.min.css in your HEAD tag
 ```
 <link rel="stylesheet" type="text/css" href="waka-waka-player/waka-waka-player.min.css"/>
 ```
-#### Add waka-waka-player.min.js before your closing <body> tag
+#### Add waka-waka-player.min.js before your closing BODY tag
 ```
 <script type="text/javascript" src="waka-waka-player/waka-waka-player.min.js"></script>
 ```
